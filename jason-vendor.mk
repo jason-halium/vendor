@@ -858,19 +858,19 @@ PRODUCT_PACKAGES += \
     libantradio \
     libgpustats \
     libthermalclient \
-    QtiTelephonyService \
-    SoterService \
-    datastatusnotification \
-    embms \
-    imssettings \
+#    QtiTelephonyService \
+#    SoterService \
+#    datastatusnotification \
+#    embms \
+#    imssettings \
     uceShimService \
-    CNEService \
-    WfdService \
-    com.qualcomm.location \
-    dpmserviceapp \
-    ims \
-    qcrilmsgtunnel \
-    PowerOffAlarm \
-    TimeService \
-    WfdCommon \
+#    CNEService \
+#    WfdService \
+#    com.qualcomm.location \
+#    dpmserviceapp \
+#    ims \
+#    qcrilmsgtunnel \
+#    PowerOffAlarm \
+#    TimeService \
+#    WfdCommon \
     chargeonlymode
